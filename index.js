@@ -1,1 +1,4 @@
-// Code your solution in this file!
+function distanceFromHqInBlocks (pickUpLocation) {
+    const hQ = 42;
+    return Math.abs(pickUpLocation - hQ)
+}
